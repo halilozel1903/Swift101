@@ -1,11 +1,10 @@
-
 import UIKit
 
 // String : Birden fazla karakterin bir araya gelmesiyle oluşan veri türüdür.
 
 var country = "türkiye" // String türde bir değişken tanımı
 
-country.append("m") // arkasına ekleme metodu, çıktı olarak Türkiyem verdi. 
+country.append("m") // arkasına ekleme metodu, çıktı olarak Türkiyem verdi.
 
 country.capitalized // country değişkeninin ilk harfini büyük yaptı.
 
