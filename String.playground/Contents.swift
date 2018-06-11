@@ -1,5 +1,4 @@
 
-
 import UIKit
 
 // String : Birden fazla karakterin bir araya gelmesiyle oluşan veri türüdür.
