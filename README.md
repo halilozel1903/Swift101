@@ -15,13 +15,13 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [Variables(Değişkenler)](https://github.com/halilozel1903/Swift101/tree/master/Variables.playground)
 - [String](https://github.com/halilozel1903/Swift101/tree/master/String.playground)
 - [Int, Float ve Double](https://github.com/halilozel1903/Swift101/tree/master/Int%26Double%26Float.playground)
-- Boolean
+- [Boolean](https://github.com/halilozel1903/Swift101/tree/master/Boolean.playground)
 - [Arrays(Diziler)](https://github.com/halilozel1903/Swift101/tree/master/Arrays.playground)
 - [Dictionaries(Sözlükler)](https://github.com/halilozel1903/Swift101/tree/master/Dictionaries.playground)
-- Optionals(Opsiyoneller)
-- While Loop(While Döngüsü)
-- For Loop(For Döngüsü)
+- [While Loop(While Döngüsü)](https://github.com/halilozel1903/Swift101/tree/master/WhileLoop.playground)
+- [For Loop(For Döngüsü)](https://github.com/halilozel1903/Swift101/tree/master/ForLoop.playground)
 - If,Else
+- Optionals(Opsiyoneller)
 - Functions(Fonksiyonlar)
 - Class(Sınıflar)
 - Sets
@@ -36,6 +36,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 1. https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 2. https://www.udemy.com/ios-11-swift-4-baslangictan-ileri-seviyeye-mobil-uygulama
 3. https://www.tutorialspoint.com/swift/index.htm
+4. https://www.mobilhanem.com/swift-egitimi/
 
 
 # NOT
