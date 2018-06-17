@@ -16,8 +16,8 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [String](https://github.com/halilozel1903/Swift101/tree/master/String.playground)
 - [Int, Float ve Double](https://github.com/halilozel1903/Swift101/tree/master/Int%26Double%26Float.playground)
 - Boolean
-- Arrays(Diziler)
-- Dictionaries(Sözlükler)
+- [Arrays(Diziler)](https://github.com/halilozel1903/Swift101/tree/master/Arrays.playground)
+- [Dictionaries(Sözlükler)](https://github.com/halilozel1903/Swift101/tree/master/Dictionaries.playground)
 - Optionals(Opsiyoneller)
 - While Loop(While Döngüsü)
 - For Loop(For Döngüsü)
