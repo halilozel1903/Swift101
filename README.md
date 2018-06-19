@@ -21,10 +21,11 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [While Loop(While Döngüsü)](https://github.com/halilozel1903/Swift101/tree/master/WhileLoop.playground)
 - [For Loop(For Döngüsü)](https://github.com/halilozel1903/Swift101/tree/master/ForLoop.playground)
 - [If,Else](https://github.com/halilozel1903/Swift101/tree/master/IfElse.playground)
+- [Switch-Case](https://github.com/halilozel1903/Swift101/tree/master/SwitchCase.playground)
 - [Functions(Fonksiyonlar)](https://github.com/halilozel1903/Swift101/tree/master/Function.playground)
 - [Class(Sınıflar)](https://github.com/halilozel1903/Swift101/tree/master/Classes.playground)
 - [Optionals(Opsiyoneller)](https://github.com/halilozel1903/Swift101/tree/master/Optionals.playground)
-- Sets
+- [Sets](https://github.com/halilozel1903/Swift101/tree/master/Sets.playground)
 - Enumerations
 - Methods
 - Structures
