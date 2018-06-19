@@ -26,10 +26,10 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [Class(Sınıflar)](https://github.com/halilozel1903/Swift101/tree/master/Classes.playground)
 - [Optionals(Opsiyoneller)](https://github.com/halilozel1903/Swift101/tree/master/Optionals.playground)
 - [Sets](https://github.com/halilozel1903/Swift101/tree/master/Sets.playground)
-- Enumerations
-- Methods
-- Structures
-- Type Casting
+- [Enumerations](https://github.com/halilozel1903/Swift101/tree/master/Enumerations.playground)
+- [Methods](https://github.com/halilozel1903/Swift101/tree/master/Methods.playground)
+- [Structures](https://github.com/halilozel1903/Swift101/tree/master/Structures.playground)
+- [Type Casting](https://github.com/halilozel1903/Swift101/tree/master/TypeCasting.playground)
 
 
 ## Yararlandığım Kaynaklar
