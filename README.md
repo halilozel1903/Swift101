@@ -32,6 +32,16 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [Type Casting](https://github.com/halilozel1903/Swift101/tree/master/TypeCasting.playground)
 - [ConvertDataTypes](https://github.com/halilozel1903/Swift101/tree/master/ConvertDataTypes.playground)
 
+<br>
+
+
+## Swift - 101 Örnek Uygulamalar
+
+- [Calculator]()
+- [Find My Age]()
+
+
+
 
 ## Yararlandığım Kaynaklar
 
