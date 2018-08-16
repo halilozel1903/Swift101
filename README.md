@@ -35,7 +35,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 <br>
 
 
-## Swift - 101 Örnek Uygulamalar
+## Swift 101 - Örnek Uygulamalar
 
 - [Calculator]()
 - [Find My Age]()
