@@ -30,6 +30,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [Methods](https://github.com/halilozel1903/Swift101/tree/master/Methods.playground)
 - [Structures](https://github.com/halilozel1903/Swift101/tree/master/Structures.playground)
 - [Type Casting](https://github.com/halilozel1903/Swift101/tree/master/TypeCasting.playground)
+- [ConvertDataTypes](https://github.com/halilozel1903/Swift101/tree/master/ConvertDataTypes.playground)
 
 
 ## Yararlandığım Kaynaklar
@@ -38,6 +39,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 2. https://www.udemy.com/ios-11-swift-4-baslangictan-ileri-seviyeye-mobil-uygulama
 3. https://www.tutorialspoint.com/swift/index.htm
 4. https://www.mobilhanem.com/swift-egitimi/
+5. https://www.udemy.com/draft/1317952/learn/v4/
 
 
 # NOT
