@@ -40,6 +40,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 
 - [Calculator](https://github.com/halilozel1903/Swift101/tree/master/Calculator.playground)
 - [Find My Age](https://github.com/halilozel1903/Swift101/tree/master/FindMyAge.playground)
+- [Prime Number](https://github.com/halilozel1903/Swift101/tree/master/PrimeNumber.playground)
 
 
 
@@ -51,6 +52,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 3. https://www.tutorialspoint.com/swift/index.htm
 4. https://www.mobilhanem.com/swift-egitimi/
 5. https://www.udemy.com/draft/1317952/learn/v4/
+6. https://www.udemy.com/complete-ios-11-developer-course/
 
 
 # NOT
