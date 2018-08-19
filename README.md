@@ -13,7 +13,8 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 
 - [Hello World](https://github.com/halilozel1903/Swift101/tree/master/HelloWorld.playground)
 - [Variables(Değişkenler)](https://github.com/halilozel1903/Swift101/tree/master/Variables.playground)
-- [String Methods 1](https://github.com/halilozel1903/Swift101/tree/master/String.playground)
+- [String Methods-1](https://github.com/halilozel1903/Swift101/tree/master/String.playground)
+- [String Methods-2](https://github.com/halilozel1903/Swift101/tree/master/StringExample.playground)
 - [Int, Float ve Double](https://github.com/halilozel1903/Swift101/tree/master/Int%26Double%26Float.playground)
 - [Boolean](https://github.com/halilozel1903/Swift101/tree/master/Boolean.playground)
 - [Arrays(Diziler)](https://github.com/halilozel1903/Swift101/tree/master/Arrays.playground)
@@ -31,7 +32,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [Structures](https://github.com/halilozel1903/Swift101/tree/master/Structures.playground)
 - [Type Casting](https://github.com/halilozel1903/Swift101/tree/master/TypeCasting.playground)
 - [ConvertDataTypes](https://github.com/halilozel1903/Swift101/tree/master/ConvertDataTypes.playground)
-- [String Methods 2](https://github.com/halilozel1903/Swift101/tree/master/StringExample.playground)
+
 
 <br>
 
@@ -41,6 +42,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [Calculator](https://github.com/halilozel1903/Swift101/tree/master/Calculator.playground)
 - [Find My Age](https://github.com/halilozel1903/Swift101/tree/master/FindMyAge.playground)
 - [Prime Number](https://github.com/halilozel1903/Swift101/tree/master/PrimeNumber.playground)
+- [How Many Fingers](https://github.com/halilozel1903/Swift101/tree/master/HowManyFingers)
 
 
 
