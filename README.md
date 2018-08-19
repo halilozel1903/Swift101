@@ -28,10 +28,10 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [Optionals(Opsiyoneller)](https://github.com/halilozel1903/Swift101/tree/master/Optionals.playground)
 - [Sets](https://github.com/halilozel1903/Swift101/tree/master/Sets.playground)
 - [Enumerations](https://github.com/halilozel1903/Swift101/tree/master/Enumerations.playground)
-- [Methods](https://github.com/halilozel1903/Swift101/tree/master/Methods.playground)
-- [Structures](https://github.com/halilozel1903/Swift101/tree/master/Structures.playground)
+- [Methods(Metodlar)](https://github.com/halilozel1903/Swift101/tree/master/Methods.playground)
+- [Structures(Yapılar)](https://github.com/halilozel1903/Swift101/tree/master/Structures.playground)
 - [Type Casting](https://github.com/halilozel1903/Swift101/tree/master/TypeCasting.playground)
-- [ConvertDataTypes](https://github.com/halilozel1903/Swift101/tree/master/ConvertDataTypes.playground)
+- [Convert Data Types](https://github.com/halilozel1903/Swift101/tree/master/ConvertDataTypes.playground)
 
 
 <br>
@@ -58,7 +58,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 
 
 # NOT
-Ders,kaynak ve örnek eklemeleri devam edecektir. <br>
+Ders,kaynak ve proje eklemeleri devam edecektir. <br>
 
 
 
