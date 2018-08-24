@@ -1,4 +1,4 @@
-# Swift 101 Eğitimi
+# Swift 101 Eğitimi (Swift 101 Tutorial)
 
 ![Screenshot](swift.png)
 
