@@ -47,6 +47,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [Classes & Objects](https://github.com/halilozel1903/Swift101/tree/master/Classes%26Objects.playground)
 - [Optionals Masterclass](https://github.com/halilozel1903/Swift101/tree/master/Optional.playground)
 - [For Loops](https://github.com/halilozel1903/Swift101/tree/master/ForLoops.playground)
+- [While Loops](https://github.com/halilozel1903/Swift101/tree/master/While%20Loops.playground)
 
 
 
