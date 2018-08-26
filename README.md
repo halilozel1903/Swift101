@@ -45,6 +45,8 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 - [How Many Fingers](https://github.com/halilozel1903/Swift101/tree/master/HowManyFingers)
 - [Find Cats Age](https://github.com/halilozel1903/Swift101/tree/master/CatYearsFind)
 - [Classes & Objects](https://github.com/halilozel1903/Swift101/tree/master/Classes%26Objects.playground)
+- [Optionals Masterclass](https://github.com/halilozel1903/Swift101/tree/master/Optional.playground)
+- [For Loops](https://github.com/halilozel1903/Swift101/tree/master/ForLoops.playground)
 
 
 
