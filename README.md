@@ -4,7 +4,8 @@
 
 ## Projenin Amacı
 
-Swift-4 ile ilgili en temel konulardan başlayıp ileri seviye konuları hem kendim öğrenmek hem de öğrendiğim bilgileri sizlerle paylaşarak etkileşimli bir proje oluşturmak. Arkadaşlar her türlü eleştiri ve desteğe açığım :smile:
+Swift-4 ile ilgili en temel konulardan başlayıp ileri seviye konuları hem kendim öğrenmek hem de öğrendiğim bilgileri sizlerle paylaşarak etkileşimli bir proje oluşturmak. Arkadaşlar her türlü eleştiri ve desteğe açığım :smile: <br>
+Lütfen görüşlerinizi belirtirseniz dahi iyi bir proje olması için daha dikkatli bir şekilde çalışırım.
 
 ## Projenin İçeriği
 Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler içeren bir projedir. <br>
