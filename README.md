@@ -64,7 +64,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 
 
 # NOT
-Ders,kaynak ve proje eklemeleri devam edecektir. <br>
+Ders,kaynak ve uygulama eklemeleri devam edecektir. <br>
 
 
 
