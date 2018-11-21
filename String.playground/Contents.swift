@@ -1,19 +1,17 @@
 import UIKit
 
-// String : Birden fazla karakterin bir araya gelmesiyle oluşan veri türüdür.
 
-var country = "türkiye" // String türde bir değişken tanımı
+var name = "Halil"
+var food = "Chicken"
 
-country.append("m") // arkasına ekleme metodu, çıktı olarak Türkiyem verdi.
+print("\(name) likes to eat \(food)") // name ve food değerleri ekranda gösterilmek için \(ad) şeklinde yazıldı.
 
-country.capitalized // country değişkeninin ilk harfini büyük yaptı.
+var paragraph = """
+                Hi
+                My name is
+                \(name)
+                and I like to eat
+                \(food)
+                """
 
-country.contains("a") // içinde a karakteri var mı ? Olmadığı için false değerini verdi.
-
-country.lowercased() // bütün karakterleri küçük yaptı.
-
-country.uppercased() // bütün karakterleri büyük yaptı.
-
-country.isEmpty // değişkenin içeriği kontrol ediliyor. İçerik boş olmadığı için false döndürülüyor.
-
-country.removeAll() // değişken silindi. İçeriği boşaltıldı.
+print(paragraph) // 3 tırnak işareti ile alt alta paragraf tarzında yazımlar yazılabiliyor.
