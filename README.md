@@ -1,15 +1,15 @@
-# Swift 101 Eğitimi (Swift 101 Tutorial)
+# Swift 101 Tutorial
 
 ![Screenshot](swift.png)
 
-## Projenin Amacı
+## The goal of the project
 
-Swift-4 ile ilgili en temel konulardan başlayıp ileri seviye konuları hem kendim öğrenmek hem de öğrendiğim bilgileri sizlerle paylaşarak etkileşimli bir proje oluşturmak.
+Starting with the most basic topics related to Swift-5, learning advanced topics both by myself and creating an interactive project by sharing the information I learned with you.
 
-## Projenin İçeriği
-Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler içeren bir projedir. <br>
+## Content of the Project
+It is a project that contains various information and examples about the basics of programming with Swift-5. </br>
 
-## Projenin Konuları
+## Project Topics
 
 - [Hello World](https://github.com/halilozel1903/Swift101/tree/master/HelloWorld.playground)
 - [Variables(Değişkenler)](https://github.com/halilozel1903/Swift101/tree/master/Variables.playground)
@@ -37,7 +37,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 <br>
 
 
-## Swift 101 - Örnek Uygulamalar
+## Swift 101 - Sample Applications
 
 - [Calculator](https://github.com/halilozel1903/Swift101/tree/master/Calculator.playground)
 - [Find My Age](https://github.com/halilozel1903/Swift101/tree/master/FindMyAge.playground)
@@ -53,7 +53,7 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 
 
 
-## Yararlandığım Kaynaklar
+## Resources
 
 1. https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 2. https://www.udemy.com/ios-11-swift-4-baslangictan-ileri-seviyeye-mobil-uygulama
@@ -62,9 +62,6 @@ Swift-4 ile programlamanın temelleri hakkında çeşitli bilgi ve örnekler iç
 5. https://www.udemy.com/draft/1317952/learn/v4/
 6. https://www.udemy.com/complete-ios-11-developer-course/
 
-
-# NOT
-Ders,kaynak ve uygulama eklemeleri devam edecektir. <br>
 
 
 
