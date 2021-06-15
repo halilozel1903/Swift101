@@ -4,32 +4,33 @@
 
 ## The goal of the project
 
-Starting with the most basic topics related to Swift-5, learning advanced topics both by myself and creating an interactive project by sharing the information I learned with you.
+Starting with the most basic topics related to **Swift 5.5**, learning advanced topics both by myself and creating an interactive project by sharing the information I learned with you.
 
 ## Content of the Project
-It is a project that contains various information and examples about the basics of programming with Swift-5. </br>
+It is a project that contains various information and examples about the basics of programming with **Swift 5.5** </br>
+
 
 ## Project Topics
 
 - [Hello World](https://github.com/halilozel1903/Swift101/tree/master/HelloWorld.playground)
-- [Variables(Değişkenler)](https://github.com/halilozel1903/Swift101/tree/master/Variables.playground)
+- [Variables](https://github.com/halilozel1903/Swift101/tree/master/Variables.playground)
 - [String Methods-1](https://github.com/halilozel1903/Swift101/tree/master/String.playground)
 - [String Methods-2](https://github.com/halilozel1903/Swift101/tree/master/StringExample.playground)
 - [Int, Float ve Double](https://github.com/halilozel1903/Swift101/tree/master/Int%26Double%26Float.playground)
 - [Boolean](https://github.com/halilozel1903/Swift101/tree/master/Boolean.playground)
-- [Arrays(Diziler)](https://github.com/halilozel1903/Swift101/tree/master/Arrays.playground)
-- [Dictionaries(Sözlükler)](https://github.com/halilozel1903/Swift101/tree/master/Dictionaries.playground)
-- [While Loop(While Döngüsü)](https://github.com/halilozel1903/Swift101/tree/master/WhileLoop.playground)
-- [For Loop(For Döngüsü)](https://github.com/halilozel1903/Swift101/tree/master/ForLoop.playground)
+- [Arrays](https://github.com/halilozel1903/Swift101/tree/master/Arrays.playground)
+- [Dictionaries](https://github.com/halilozel1903/Swift101/tree/master/Dictionaries.playground)
+- [While Loop](https://github.com/halilozel1903/Swift101/tree/master/WhileLoop.playground)
+- [For Loop](https://github.com/halilozel1903/Swift101/tree/master/ForLoop.playground)
 - [If,Else](https://github.com/halilozel1903/Swift101/tree/master/IfElse.playground)
 - [Switch-Case](https://github.com/halilozel1903/Swift101/tree/master/SwitchCase.playground)
-- [Functions(Fonksiyonlar)](https://github.com/halilozel1903/Swift101/tree/master/Function.playground)
-- [Class(Sınıflar)](https://github.com/halilozel1903/Swift101/tree/master/Classes.playground)
-- [Optionals(Opsiyoneller)](https://github.com/halilozel1903/Swift101/tree/master/Optionals.playground)
+- [Functions](https://github.com/halilozel1903/Swift101/tree/master/Function.playground)
+- [Class](https://github.com/halilozel1903/Swift101/tree/master/Classes.playground)
+- [Optionals](https://github.com/halilozel1903/Swift101/tree/master/Optionals.playground)
 - [Sets](https://github.com/halilozel1903/Swift101/tree/master/Sets.playground)
 - [Enumerations](https://github.com/halilozel1903/Swift101/tree/master/Enumerations.playground)
-- [Methods(Metodlar)](https://github.com/halilozel1903/Swift101/tree/master/Methods.playground)
-- [Structures(Yapılar)](https://github.com/halilozel1903/Swift101/tree/master/Structures.playground)
+- [Methods](https://github.com/halilozel1903/Swift101/tree/master/Methods.playground)
+- [Structures](https://github.com/halilozel1903/Swift101/tree/master/Structures.playground)
 - [Type Casting](https://github.com/halilozel1903/Swift101/tree/master/TypeCasting.playground)
 - [Convert Data Types](https://github.com/halilozel1903/Swift101/tree/master/ConvertDataTypes.playground)
 
@@ -52,7 +53,6 @@ It is a project that contains various information and examples about the basics 
 
 
 
-
 ## Resources
 
 1. https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
@@ -67,7 +67,7 @@ It is a project that contains various information and examples about the basics 
 ```
 MIT License
 
-Copyright (c) 2021 Halil Özel
+Copyright (c) 2021 Halil OZEL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
