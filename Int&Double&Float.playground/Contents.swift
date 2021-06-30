@@ -8,7 +8,7 @@ import UIKit
 
 var age = 21 // age değişkenine 21 değeri atandı.
 
-age + 3 // 21 + 3 = 24 sonucu üretti.
+age = age + 3 // 21 + 3 = 24 sonucu üretti.
 
 age / 4 // 24 / 4 = 6 sonucunu üretti.
 
