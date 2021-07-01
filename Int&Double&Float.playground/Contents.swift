@@ -24,7 +24,7 @@ let pi = 3.14 // Pi sayısını tanımladık. Sabit bir değer olduğu için let
 
 pi + Double(age) // farklı veri türleri olduğu için toplamasına izin vermedi.
 // age değişkenine Double diyerek toplama işlemini yapabiliyoruz.
-// sonuc olarak 3.14 + 21 = 24.14 bulunuyor.
+// sonuc olarak 3.14 + 24 = 27.14 bulunuyor.
 
 /* normalde türlerini belirtmemize gerek duymaz Swift ama isterseni diğer programlama dillerinde olduğu
  gibi tipini belirtip tanımlama yapabilirsiniz.
