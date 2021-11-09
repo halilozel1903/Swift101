@@ -1,4 +1,4 @@
-# Swift 101 Tutorial 📱
+# Swift 1️⃣ 0️⃣ 1️⃣ Tutorial 📱
 
 ![Screenshot](swift.png)
 
@@ -38,7 +38,7 @@ It is a project that contains various information and examples about the basics 
 <br>
 
 
-## Swift 101 - Sample Applications 🧑🏻‍💻
+## Swift 101 - Sample Applications 🧑🏻‍💻 👨🏻‍💻
 
 - [Calculator](https://github.com/halilozel1903/Swift101/tree/master/Calculator.playground)
 - [Find My Age](https://github.com/halilozel1903/Swift101/tree/master/FindMyAge.playground)
