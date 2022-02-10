@@ -1,16 +1,16 @@
-# Swift 101 Tutorial
+# Swift 1️⃣ 0️⃣ 1️⃣ Tutorial 📱
 
 ![Screenshot](swift.png)
 
-## The goal of the project
+## The goal of the project ℹ️
 
 Starting with the most basic topics related to **Swift 5.5**, learning advanced topics both by myself and creating an interactive project by sharing the information I learned with you.
 
-## Content of the Project
+## Content of the Project 🤨
 It is a project that contains various information and examples about the basics of programming with **Swift 5.5** </br>
 
 
-## Project Topics
+## Project Topics 🏆
 
 - [Hello World](https://github.com/halilozel1903/Swift101/tree/master/HelloWorld.playground)
 - [Variables](https://github.com/halilozel1903/Swift101/tree/master/Variables.playground)
@@ -38,7 +38,7 @@ It is a project that contains various information and examples about the basics 
 <br>
 
 
-## Swift 101 - Sample Applications
+## Swift 101 - Sample Applications 🧑🏻‍💻 👨🏻‍💻
 
 - [Calculator](https://github.com/halilozel1903/Swift101/tree/master/Calculator.playground)
 - [Find My Age](https://github.com/halilozel1903/Swift101/tree/master/FindMyAge.playground)
@@ -53,7 +53,7 @@ It is a project that contains various information and examples about the basics 
 
 
 
-## Resources
+## Resources 📚
 
 1. https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 2. https://www.udemy.com/ios-11-swift-4-baslangictan-ileri-seviyeye-mobil-uygulama
@@ -63,11 +63,11 @@ It is a project that contains various information and examples about the basics 
 6. https://www.udemy.com/complete-ios-11-developer-course/
 
 
-## License
+## License 💁🏻‍♂️
 ```
 MIT License
 
-Copyright (c) 2021 Halil OZEL
+Copyright (c) 2022 Halil OZEL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
