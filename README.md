@@ -10,6 +10,10 @@ Starting with the most basic topics related to **Swift 5.5**, learning advanced 
 It is a project that contains various information and examples about the basics of programming with **Swift 5.5** </br>
 
 
+## What kind of apps can you develop? 📱 💻 📺 ⌚️
+You can develop applications for desktop, mobile, tablet, tv and smart watches with Swift language.
+
+
 ## Project Topics 🏆
 
 - [Hello World](https://github.com/halilozel1903/Swift101/tree/master/HelloWorld.playground)
