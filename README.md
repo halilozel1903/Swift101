@@ -66,6 +66,11 @@ You can develop applications for desktop, mobile, tablet, tv and smart watches w
 5. https://www.udemy.com/draft/1317952/learn/v4/
 6. https://www.udemy.com/complete-ios-11-developer-course/
 
+## Donation 💸
+
+If this project help 💁 you reduce time to develop, you can give me a cup of coffee. ☕
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/halilozel)
 
 ## License 💁🏻‍♂️
 ```
