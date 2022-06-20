@@ -2,7 +2,6 @@
 
 import UIKit
 
-
 /* Arrays : Aynı türdeki sıralı değer listelerini saklamak için kullanılır.
 Swift, yanlışlıkla bir dizi içinde yanlış bir yazı girmenize izin vermeyen sıkı denetimi sağlar.*/
 
