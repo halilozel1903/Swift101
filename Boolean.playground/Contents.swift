@@ -1,5 +1,3 @@
-
-
 // Boolean : Mantıksal değerleri ifade eder.
 // İki farklı değer almaktadır. true(doğru) ve false(yanlış)
 // Boolean ifadeleri if yapılarında kullanılmaktadır.

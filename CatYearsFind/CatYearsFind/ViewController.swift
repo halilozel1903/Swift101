@@ -16,17 +16,14 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
 
-   
 
     @IBAction func ageFind(_ sender: Any) {
         
         if let age = txtYear.text{
             if let ageAsNumber = Int(age){
                 let ageInCatYears = ageAsNumber * 7
-                
                 resultLabel.text = "Your cat is \(ageInCatYears) in cat years"
             }
         }

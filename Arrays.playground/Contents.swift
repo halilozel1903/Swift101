@@ -4,7 +4,7 @@ import UIKit
 
 
 /* Arrays : Aynı türdeki sıralı değer listelerini saklamak için kullanılır.
-Swift 4, yanlışlıkla bir dizi içinde yanlış bir yazı girmenize izin vermeyen sıkı denetimi sağlar.*/
+Swift, yanlışlıkla bir dizi içinde yanlış bir yazı girmenize izin vermeyen sıkı denetimi sağlar.*/
 
 /* Oluşturulan bir diziyi bir değişkene atarsanız, her zaman değişebilir olur;
  bu, öğelerini ekleyerek, kaldırarak veya değiştirerek değiştirebileceğiniz anlamına gelir;

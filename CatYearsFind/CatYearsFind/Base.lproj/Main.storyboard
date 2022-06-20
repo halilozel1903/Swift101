@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
-    <device id="retina4_7" orientation="portrait">
-        <adaptation id="fullscreen"/>
-    </device>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -19,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Cat Years" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MpS-5K-lx0">
-                                <rect key="frame" x="85" y="71" width="217" height="49"/>
+                                <rect key="frame" x="85" y="51" width="217" height="49"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="49" id="LGS-XE-DBK"/>
                                 </constraints>
@@ -28,7 +26,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How old is your cat ?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ohx-Fm-82T">
-                                <rect key="frame" x="116" y="157" width="159" height="21"/>
+                                <rect key="frame" x="116" y="137" width="157.5" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="ZNZ-pP-vdk"/>
                                 </constraints>
@@ -36,8 +34,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VL7-jb-q1z">
-                                <rect key="frame" x="165" y="274" width="57" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VL7-jb-q1z">
+                                <rect key="frame" x="165" y="254" width="57" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="RVY-jk-6XR"/>
                                 </constraints>
@@ -47,19 +45,18 @@
                                 </connections>
                             </button>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="bRt-Zj-U3z">
-                                <rect key="frame" x="122" y="217" width="153" height="30"/>
+                                <rect key="frame" x="122.5" y="197" width="151" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="P47-Wa-RhO"/>
                                 </constraints>
-                                <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cats.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="eQ0-aD-4md">
-                                <rect key="frame" x="78" y="404" width="240" height="174"/>
+                                <rect key="frame" x="78" y="384" width="240" height="194"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Result : " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FvE-18-kM3">
-                                <rect key="frame" x="88" y="340" width="221" height="35"/>
+                                <rect key="frame" x="88" y="320" width="220" height="35"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="35" id="TfA-YL-x66"/>
                                 </constraints>
@@ -68,6 +65,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="ohx-Fm-82T" firstAttribute="top" secondItem="MpS-5K-lx0" secondAttribute="bottom" constant="37" id="5Oz-yf-Hbm"/>
@@ -77,7 +75,9 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="eQ0-aD-4md" secondAttribute="bottom" constant="89" id="DcX-EB-WT0"/>
                             <constraint firstItem="FvE-18-kM3" firstAttribute="centerX" secondItem="eQ0-aD-4md" secondAttribute="centerX" id="HdW-RE-Upn"/>
                             <constraint firstItem="bRt-Zj-U3z" firstAttribute="centerX" secondItem="FvE-18-kM3" secondAttribute="centerX" id="IRt-39-zH8"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="bRt-Zj-U3z" secondAttribute="trailing" constant="101.5" id="J0q-5w-x0E"/>
                             <constraint firstItem="eQ0-aD-4md" firstAttribute="top" secondItem="FvE-18-kM3" secondAttribute="bottom" constant="29" id="Kaz-Kv-gh9"/>
+                            <constraint firstItem="bRt-Zj-U3z" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="122.5" id="NQD-50-XQ7"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="eQ0-aD-4md" secondAttribute="trailing" constant="57" id="O4V-bS-r32"/>
                             <constraint firstItem="FvE-18-kM3" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="88" id="RGI-kW-KQ0"/>
                             <constraint firstItem="FvE-18-kM3" firstAttribute="top" secondItem="VL7-jb-q1z" secondAttribute="bottom" constant="36" id="Thb-BH-Z6b"/>
@@ -89,7 +89,6 @@
                             <constraint firstItem="eQ0-aD-4md" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="78" id="pdQ-hJ-cDB"/>
                             <constraint firstItem="MpS-5K-lx0" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="85" id="wSb-Nr-cPB"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
                         <outlet property="resultLabel" destination="FvE-18-kM3" id="P9b-Ek-q0T"/>
