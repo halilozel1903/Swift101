@@ -9,21 +9,17 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    @IBOutlet weak var textNumber: UITextField!
     
+    @IBOutlet weak var textNumber: UITextField!
     @IBOutlet weak var resultLabel: UILabel!
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-   
-
+    
+    
     @IBAction func guess(_ sender: Any) {
-        
         let diceRoll = String(arc4random_uniform(6))
         
         if textNumber.text == diceRoll{
