@@ -39,9 +39,6 @@ You can develop applications for desktop, mobile, tablet, tv and smart watches w
 - [Convert Data Types](https://github.com/halilozel1903/Swift101/tree/master/ConvertDataTypes.playground)
 
 
-<br>
-
-
 ## Swift 101 - Sample Applications 🧑🏻‍💻 👨🏻‍💻
 
 - [Calculator](https://github.com/halilozel1903/Swift101/tree/master/Calculator.playground)
@@ -54,7 +51,6 @@ You can develop applications for desktop, mobile, tablet, tv and smart watches w
 - [For Loops](https://github.com/halilozel1903/Swift101/tree/master/ForLoops.playground)
 - [While Loops](https://github.com/halilozel1903/Swift101/tree/master/While%20Loops.playground)
 - [String Manipulating](https://github.com/halilozel1903/Swift101/tree/master/StringManipulating.playground)
-
 
 
 ## Resources 📚
@@ -70,7 +66,7 @@ You can develop applications for desktop, mobile, tablet, tv and smart watches w
 
 If this project help 💁 you reduce time to develop, you can give me a cup of coffee. ☕
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/halilozel)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/halilozel1903)
 
 ## License 💁🏻‍♂️
 ```
