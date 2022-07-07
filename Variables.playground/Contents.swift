@@ -18,4 +18,3 @@ surname // değişken içeriği playground'da gösterildi.
 // surname = "ÖZEL" // Cannot assign to value: 'surname' is a 'let' constant hatasını veriyor.
 // surname içeriğini değiştirmek için ya let olan türü var yapmamız lazım ya da içeriği değiştirilmemelidir.
 
-

@@ -31,7 +31,7 @@ var number = 1
 // bu döngüde öncelikle 1 sayısı 10 dan küçük olana kadar bu döngüye girer.
 // Döngüde ise sayı bir arttırılır ve ekrana daha sonra yazılır.
 // Eğer döngüdeki arttırma sayıyı yazdırdıktan sonra gerçekleşirse
-    //bir önceki döngüden farklı sonuc elde edilir.
+//bir önceki döngüden farklı sonuc elde edilir.
 
 while number < 10 {
     number = number + 1
@@ -60,20 +60,5 @@ var yasim = 21
 repeat{
     print("benim yaşım \(yasim)") // kosula girip yası yazdırıldı.
 } while yasim > 58 // yasim 58 den büyükse döngüye girer.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
