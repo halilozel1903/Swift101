@@ -1,6 +1,6 @@
 /*
-if ingilizce bir kelime olup türkçe karşılığı “eğer” dir.
-if yapısı, programlama dillerinde belirtilen herhangi bir koşulun doğruluğunu kontrol etmek için kullanılır.
+ if ingilizce bir kelime olup türkçe karşılığı “eğer” dir.
+ if yapısı, programlama dillerinde belirtilen herhangi bir koşulun doğruluğunu kontrol etmek için kullanılır.
  Belirtilen koşul sağlanıyor ise  true değeri döner ve if bloğu çalıştırılır,
  eğer belirtilen koşul sağlanmıyor ise  false değeri döner ve if bloğu çalıştırılmaz.
  */
@@ -71,5 +71,4 @@ if paranVarMi == true && uykunVarMi == false { // verilen koşulu sağlayan ifad
 } else if paranVarMi == false && uykunVarMi == false {
     print("Biraz para kazanmalısın")
 }
-
 

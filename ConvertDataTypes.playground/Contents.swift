@@ -1,5 +1,3 @@
-
-
 import UIKit
 
 // convert string to int
@@ -21,5 +19,4 @@ var doubleNumber1 : Double = Double(intNumber1)
 // convert bool to string
 var boolVariable : Bool = true
 var stringVariable : String = String(boolVariable)
-
 

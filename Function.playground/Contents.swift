@@ -1,7 +1,7 @@
 /*
  
  Bir fonksiyon, belirli bir görevi gerçekleştirmek için birlikte düzenlenmiş bir dizi ifadedir.
- Bir Swift 4 fonksiyonu, bir Objective C dil fonksiyonu kadar karmaşık bir basit C fonksiyonu
+ Bir Swift fonksiyonu, bir Objective C dil fonksiyonu kadar karmaşık bir basit C fonksiyonu
  kadar basit olabilir.
  Fonksiyon çağrılarında yerel ve global parametre değerlerini aktarmamıza izin verir.
  
@@ -9,7 +9,7 @@
  
  Fonksiyon Tanımı - Fonksiyonun gerçek gövdesini sağlar.
  
- Swift 4 fonksiyonları parametre tipi ve dönüş tiplerini içerir.
+ Swift fonksiyonları parametre tipi ve dönüş tiplerini içerir.
  
  */
 
@@ -45,5 +45,4 @@ func logicFunction(x:Int, y:Int) -> Bool{ // int parametrelerine sahip bool değ
 }
 
 logicFunction(x: 10, y: 5) // fonksiyonun elemanlarına değerler atandı.
-
 

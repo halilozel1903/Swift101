@@ -1,6 +1,6 @@
 /*
- Swift 4 sözlükleri, aynı türdeki sırasız değerler listesini saklamak için kullanılır.
- Swift 4, yanlışlıkla bir sözlükte yanlış bir yazı girmenize izin vermeyen sıkı denetim yapmaktadır.
+ Swift sözlükleri, aynı türdeki sırasız değerler listesini saklamak için kullanılır.
+ Swift, yanlışlıkla bir sözlükte yanlış bir yazı girmenize izin vermeyen sıkı denetim yapmaktadır.
  Sözlüklerde key-value ilişkisi bulunmaktadır.
  "key":"value" şeklinde tanımlanmaktadır.
  */
@@ -68,5 +68,4 @@ print("Number Values")
 for (value) in numberValues {
     print("\(value)") // value değerleri ekranda gösterildi.
 }
-
 

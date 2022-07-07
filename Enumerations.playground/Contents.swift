@@ -6,7 +6,7 @@
 /*
  Enumerations(Numaralandırma) İşlevleri
  
- Swift 4'teki numaralandırma da C ve Objective C'nin yapısını benzemektedir.
+ Swift'teki numaralandırma da C ve Objective C'nin yapısını benzemektedir.
  
  Bir sınıfta beyan edilir ve değerlerine bu sınıfın örneğinden erişilir.
  
@@ -51,7 +51,7 @@ default: // farklı bir değer ise
 
 /*
  
- Swift 4 de enum, C ve Objective C gibi üyelerin varsayılan değerini atar.
+ Swift de enum, C ve Objective C gibi üyelerin varsayılan değerini atar.
  Bunun yerine üyeler, numaralandırma adlarıyla açıkça tanımlanır.
  Numaralandırma adı büyük harfle başlamalıdır (Ex: enum DaysofaWeek).
  
@@ -89,12 +89,11 @@ case .Mark(let Mark1, let Mark2, let Mark3): // ders notları
 
 enum Month: Int { // raw türü enum tanımı
     case January = 1, February, March, April, May, June, July, August,
-    September, October, November, December
+         September, October, November, December
 }
 
 let yearMonth = Month.May.rawValue // ham tipine karşılık gelen değer
 print("Value of the Month is: \(yearMonth)") // kacıncı ay olduğunu yazdırılır.
-
 
 
 
