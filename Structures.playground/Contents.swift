@@ -1,6 +1,6 @@
 /*
  
- Swift 4, Yapıların değer olarak kullanılmasını sağlayan esnek bir yapı taşı sağlar.
+ Swift, Yapıların değer olarak kullanılmasını sağlayan esnek bir yapı taşı sağlar.
  Bu yapılardan yararlanarak, yapıları ve özellikleri bir kez tanımlayabilir.
  
  
@@ -101,5 +101,4 @@ var names = nameStruct (name1: "Halil", name2: "İbrahim", name3:"Yusuf") // nes
 print(names.name1)
 print(names.name2)
 print(names.name3)
-
 
