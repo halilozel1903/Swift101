@@ -42,4 +42,3 @@ print(soyad) // değeri true
 var name = "İbrahim"
 name.hasSuffix("him")
 print(name) // değeri true
-

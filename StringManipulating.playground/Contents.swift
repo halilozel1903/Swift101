@@ -6,10 +6,12 @@ var str = "I Love " // string
 var newString = str + "iOS Programming" // new string
 
 // deprecated method
+
+/*
 for character in newString.characters{
     
     print(character) // tek tek karakterleri yazdırdı.
-}
+}*/
 
 
 let newTypeString = NSString(string: newString)
