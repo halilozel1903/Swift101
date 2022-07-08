@@ -1,13 +1,12 @@
 /*
  
- Swift 4 dilinde Belirli türlerle ilişkili işlevler, Yöntemler olarak adlandırılır.
+ Swift dilinde Belirli türlerle ilişkili işlevler, Yöntemler olarak adlandırılır.
  Objective C Sınıflarında, yöntemleri tanımlamak için kullanılırken,
- Swift 4 dili, kullanıcı, Sınıflar, Yapılar ve Numaralandırmalar için yöntemlere
+ Swift dili, kullanıcı, Sınıflar, Yapılar ve Numaralandırmalar için yöntemlere
  sahip olma esnekliğini sağlar.
  
  
  */
-
 
 
 /*
@@ -25,8 +24,6 @@
  }
  
  */
-
-
 
 
 import UIKit
@@ -62,8 +59,8 @@ sonucuVer.result() // verilen değerlere göre işlemler yapılır.
 
 /*
  
-Swift 4 dilinde yapı ve numaralandırma, örnek yöntemleriyle değiştirilemeyen değer türlerine aittir.
- Bununla birlikte, Swift 4 dili, 'mutasyon' davranışlarıyla değer tiplerini değiştirmek için esneklik sağlar. Mutate, örnek yöntemlerinde herhangi bir değişiklik yapar ve
+ Swift dilinde yapı ve numaralandırma, örnek yöntemleriyle değiştirilemeyen değer türlerine aittir.
+ Bununla birlikte, Swift, 'mutasyon' davranışlarıyla değer tiplerini değiştirmek için esneklik sağlar. Mutate, örnek yöntemlerinde herhangi bir değişiklik yapar ve
  yöntemin uygulanmasından sonra orijinal forma geri dönecektir.
  Ayrıca, 'benlik' özelliği ile örtük işlevi için yeni bir örnek oluşturulur
  ve yürütülmesinden sonra mevcut yöntemin yerini alır.
@@ -92,15 +89,14 @@ val.scaleBy(res: 30)
 val.scaleBy(res: 300)
 
 /* sonuc olarak :
-3*3 = 27
-3*5 = 15
-3*3*30 = 270
-3*5*30 = 450
-3*3*30*300 = 81000
-3*5*30*300 = 135000
+ 3*3 = 27
+ 3*5 = 15
+ 3*3*30 = 270
+ 3*5*30 = 450
+ 3*3*30*300 = 81000
+ 3*5*30*300 = 135000
  
  */
-
 
 
 
