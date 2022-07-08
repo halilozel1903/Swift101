@@ -1,6 +1,6 @@
 /*
  
- Swift 4 setleri, aynı tipteki farklı değerleri depolamak için kullanılır, ancak dizilerde belirli bir sıralamaya sahip değildir.
+ Swift setleri, aynı tipteki farklı değerleri depolamak için kullanılır, ancak dizilerde belirli bir sıralamaya sahip değildir.
  
  Öğelerin sıralanması bir sorun değilse veya yinelenen değerler olmadığından emin olmak istiyorsanız diziler yerine kümeler kullanabilirsiniz. (ayarlar sadece ayrı değerlere izin verir.)
  
@@ -34,5 +34,4 @@ if(someSet.contains("l")){ // set içerisinde l bulunuyor mu ?
 }
 
 someSet.sorted() // set içerisinde bulunan elemanları alfabetik sıraya göre sıralar.
-
 
