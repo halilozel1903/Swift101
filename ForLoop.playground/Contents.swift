@@ -5,7 +5,7 @@ import UIKit
 var fruit = ["apple","banana","watermelon"] // fruit dizisi tanımlandı.
 
 for fruits in fruit{ // for döngüsü ile dizilerin elemanları arasında gezindik
-
+    
     print(fruits) // dizinin elemanları yazdırıldı.
 }
 

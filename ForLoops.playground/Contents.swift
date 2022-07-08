@@ -16,8 +16,8 @@ for (n, c) in "Swift".enumerated() {
 
 let familyMembers = ["Halil","İbrahim","Özel"] // aile üyeleri ile string dizi olusturduk.
 
-    for familyMember in familyMembers { // döngüde eleman kadar dön
-        
+for familyMember in familyMembers { // döngüde eleman kadar dön
+    
     print("Hi there " + familyMember) // adlarını ekranda göster.
 }
 
