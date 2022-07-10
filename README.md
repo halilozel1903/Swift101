@@ -1,6 +1,6 @@
 # Swift 1️⃣ 0️⃣ 1️⃣ Tutorial 📱
 
-![Screenshot](swift.png)
+![Screenshot](https://i.pinimg.com/originals/9d/94/a5/9d94a53738b84d6c0e5ab094bcfe2af1.png)
 
 ## The goal of the project ℹ️
 
