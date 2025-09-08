@@ -1,8 +1,6 @@
 // var kısaltması variable sözcüğünden gelmektedir. Değiştirilebilir değişkenlerde kullanılır.
 // let engel anlamındadır. Değiştirilemeyen sabit değerler için kullanılır.
 
-import UIKit
-
 var name = "Halil" // name isminde bir değişken tanımı
 
 name // değişken içeriği playground'da gösterildi.

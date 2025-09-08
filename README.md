@@ -4,10 +4,10 @@
 
 ## The goal of the project ℹ️
 
-Starting with the most basic topics related to **Swift 5.5**, learning advanced topics both by myself and creating an interactive project by sharing the information I learned with you.
+Starting with the most basic topics related to **Swift 6.x**, learning advanced topics both by myself and creating an interactive project by sharing the information I learned with you.
 
 ## Content of the Project 🤨
-It is a project that contains various information and examples about the basics of programming with **Swift 5.5** </br>
+It is a project that contains various information and examples about the basics of programming with **Swift 6.x** </br>
 
 
 ## What kind of apps can you develop? 📱 💻 📺 ⌚️
@@ -72,7 +72,7 @@ If this project help 💁 you reduce time to develop, you can give me a cup of c
 ```
 MIT License
 
-Copyright (c) 2022 Halil OZEL
+Copyright (c) 2024 Halil OZEL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -5,8 +5,6 @@
  "key":"value" şeklinde tanımlanmaktadır.
  */
 
-import UIKit
-
 var myFavoriteFootballer = ["Germany" : "Mario Gomez","Brasil" : "Neymar","Argentina" : "Messi","Turkey" : "Cenk Tosun"]
 
 myFavoriteFootballer ["Germany"] // Anahtar sözcüğü "Germany" olan ifadenin değeri

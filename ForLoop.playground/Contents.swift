@@ -1,7 +1,5 @@
 // For-in döngüsü, sayıların dizileri, bir dizideki öğeler veya bir dizedeki karakterler gibi öğelerin koleksiyonları üzerinde gezinilir.
 
-import UIKit
-
 var fruit = ["apple","banana","watermelon"] // fruit dizisi tanımlandı.
 
 for fruits in fruit{ // for döngüsü ile dizilerin elemanları arasında gezindik

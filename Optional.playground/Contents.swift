@@ -1,5 +1,3 @@
-import UIKit
-
 var number : Int? // nil değer alabilir.
 
 print(number) // eğer değer atanmazsa nil değeri ekranda gösterilecek.

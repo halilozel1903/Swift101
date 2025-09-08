@@ -1,8 +1,5 @@
 //: Playground - noun: a place where people can play
 
-import UIKit
-
-
 /* priorities in math
  1 - ()
  2 - *, /

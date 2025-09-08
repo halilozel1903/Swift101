@@ -2,8 +2,6 @@
 // İki farklı değer almaktadır. true(doğru) ve false(yanlış)
 // Boolean ifadeleri if yapılarında kullanılmaktadır.
 
-import UIKit
-
 var adımHalilMidir : Bool = true
 
 if adımHalilMidir {

@@ -1,6 +1,3 @@
-import UIKit
-
-
 var name = "Halil"
 var food = "Chicken"
 

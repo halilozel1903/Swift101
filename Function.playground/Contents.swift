@@ -13,8 +13,6 @@
  
  */
 
-import UIKit
-
 func myFunction(){ // fonksiyon tanımı
     
     print("Hello iOS Developer") // fonksiyon içeriği
