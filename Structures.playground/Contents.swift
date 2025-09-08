@@ -38,8 +38,6 @@
  
  */
 
-import UIKit
-
 struct ogrenciNotlari { // sınıftaki yapıya benzer bir şekilde tanımı yapılıyor.
     
     // int türünde 3 adet değişken tanımlanıp değerleri veriliyor.

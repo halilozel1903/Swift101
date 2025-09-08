@@ -29,8 +29,6 @@
  */
 
 
-import UIKit
-
 enum names { // enum tanımlanır.
     case Swift // enum değerleri tanımlandı.
     case ObjectiveC // enum değerleri tanımlandı.

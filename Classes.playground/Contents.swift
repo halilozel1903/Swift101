@@ -33,8 +33,6 @@
  */
 
 
-import UIKit
-
 class Footballer{ // class tanımı
     
     // sınıfın özellikleri

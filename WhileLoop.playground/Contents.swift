@@ -24,8 +24,6 @@
  
  */
 
-import UIKit
-
 var number = 1
 
 // bu döngüde öncelikle 1 sayısı 10 dan küçük olana kadar bu döngüye girer.

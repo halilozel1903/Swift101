@@ -17,8 +17,6 @@
  
  */
 
-import UIKit
-
 var yasim18Mi = true // bool türünde bir değişken tanımlandı.
 
 if yasim18Mi{ // Eğer yasi 18 ise

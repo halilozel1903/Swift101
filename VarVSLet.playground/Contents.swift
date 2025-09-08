@@ -1,5 +1,3 @@
-import UIKit
-
 // var : Sonradan değişiklik yapılabilen veri türüdür.
 
 // Not : Bir tür daha sonradan başka bir tür olarak direkt kullanılmaz.

@@ -26,8 +26,6 @@
  */
 
 
-import UIKit
-
 class hesaplama { // hesaplama adında class tanımlandı.
     
     // değişikliğe uğramayacak şekilde değişken tanımları yapıldı.

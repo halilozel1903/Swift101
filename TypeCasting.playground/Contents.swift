@@ -13,8 +13,6 @@
  
  */
 
-import UIKit
-
 class Subjects { // konular sınıfı tanımlandı.
     var physics: String // fizik adında string türünde bir değişken tanımlandı.
     init(physics: String) {

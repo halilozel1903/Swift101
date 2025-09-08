@@ -1,5 +1,3 @@
-import UIKit
-
 // convert string to int
 var strNumber : String = "123"
 var intNumber : Int? = Int(strNumber)

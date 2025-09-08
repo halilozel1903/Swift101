@@ -6,8 +6,6 @@
  
  */
 
-import UIKit
-
 var someSet = Set<Character>()     // Karakter veri setine göre değişebilir.
 
 

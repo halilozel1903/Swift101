@@ -1,8 +1,5 @@
 // Switch-case : bir değişkene göre birden fazla olasılık varsa kontrol yapısı kullanılır.
 
-import UIKit
-
-
 var index = 10 // index değişkeni tanımlandı.
 
 switch index {
