@@ -1,7 +1,7 @@
 /*
- Swift 4'teki sınıflar, esnek yapıların yapı taşlarıdır.
- Sabitler, değişkenler ve fonksiyonlara benzer şekilde kullanıcı sınıf özelliklerini ve yöntemlerini tanımlayabilir. Swift 4, kullanıcılara, sınıfları bildirirken, kullanıcıların arayüzler veya uygulama dosyaları oluşturmasına gerek duymayan işlevselliği sağlar.
- Swift 4, sınıfları tek bir dosya olarak oluşturmamıza izin veriyor ve sınıflar başlatıldıktan sonra harici arayüzler varsayılan olarak oluşturulacaktır.
+ Swift'teki sınıflar, esnek yapıların yapı taşlarıdır.
+ Sabitler, değişkenler ve fonksiyonlara benzer şekilde kullanıcı sınıf özelliklerini ve yöntemlerini tanımlayabilir. Swift, kullanıcılara, sınıfları bildirirken, kullanıcıların arayüzler veya uygulama dosyaları oluşturmasına gerek duymayan işlevselliği sağlar.
+ Swift, sınıfları tek bir dosya olarak oluşturmamıza izin veriyor ve sınıflar başlatıldıktan sonra harici arayüzler varsayılan olarak oluşturulacaktır.
  
  */
 
@@ -33,7 +33,7 @@
  */
 
 
-import UIKit
+import Foundation
 
 class Footballer{ // class tanımı
     

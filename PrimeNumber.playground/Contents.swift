@@ -1,6 +1,6 @@
 // Verilen sayının asal sayı olup olmadığını gösteren bir programdır.
 
-import UIKit
+import Foundation
 
 let number = 17 // sayı değeri veriliyor.
 

@@ -24,7 +24,7 @@
  
  */
 
-import UIKit
+import Foundation
 
 var number = 1
 

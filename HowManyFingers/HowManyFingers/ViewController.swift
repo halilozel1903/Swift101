@@ -20,12 +20,13 @@ class ViewController: UIViewController {
     
     
     @IBAction func guess(_ sender: Any) {
-        let diceRoll = String(arc4random_uniform(6))
+        let randomNumber = Int.random(in: 0...5)
+        let diceRoll = String(randomNumber)
         
-        if textNumber.text == diceRoll{
+        if textNumber.text == diceRoll {
             resultLabel.text = "You're right"
-        }else{
-            resultLabel.text = "Wrong ! It was a " + diceRoll + " "
+        } else {
+            resultLabel.text = "Wrong! It was a \(diceRoll)"
         }
     }
     

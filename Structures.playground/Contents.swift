@@ -38,7 +38,7 @@
  
  */
 
-import UIKit
+import Foundation
 
 struct ogrenciNotlari { // sınıftaki yapıya benzer bir şekilde tanımı yapılıyor.
     

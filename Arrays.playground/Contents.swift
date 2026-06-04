@@ -1,6 +1,6 @@
 //: Playground - noun: a place where people can play
 
-import UIKit
+import Foundation
 
 /* Arrays : Aynı türdeki sıralı değer listelerini saklamak için kullanılır.
 Swift, yanlışlıkla bir dizi içinde yanlış bir yazı girmenize izin vermeyen sıkı denetimi sağlar.*/

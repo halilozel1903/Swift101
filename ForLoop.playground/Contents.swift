@@ -1,6 +1,6 @@
 // For-in döngüsü, sayıların dizileri, bir dizideki öğeler veya bir dizedeki karakterler gibi öğelerin koleksiyonları üzerinde gezinilir.
 
-import UIKit
+import Foundation
 
 var fruit = ["apple","banana","watermelon"] // fruit dizisi tanımlandı.
 

@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+
+# Xcode build artifacts
+DerivedData/
+build/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
