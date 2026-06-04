@@ -1,11 +1,11 @@
-import UIKit
+import Foundation
 
 // var : Sonradan değişiklik yapılabilen veri türüdür.
 
 // Not : Bir tür daha sonradan başka bir tür olarak direkt kullanılmaz.
 // Cast işlemi yapılması lazım
 
-var str = "Swift 4.2" // String - değişkenin türünü belirtmeden anlayabilir.
+var str = "Swift 6" // String - değişkenin türünü belirtmeden anlayabilir.
 
 var str2 : String = "Objective - C" // String - isteğe bağlı türüde belirtilebilir.
 

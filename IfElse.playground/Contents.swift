@@ -17,7 +17,7 @@
  
  */
 
-import UIKit
+import Foundation
 
 var yasim18Mi = true // bool türünde bir değişken tanımlandı.
 

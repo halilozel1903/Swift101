@@ -21,12 +21,13 @@ class ViewController: UIViewController {
 
     @IBAction func ageFind(_ sender: Any) {
         
-        if let age = txtYear.text{
-            if let ageAsNumber = Int(age){
-                let ageInCatYears = ageAsNumber * 7
-                resultLabel.text = "Your cat is \(ageInCatYears) in cat years"
-            }
+        guard let ageText = txtYear.text, let age = Int(ageText) else {
+            resultLabel.text = "Please enter a valid age"
+            return
         }
+        
+        let ageInCatYears = age * 7
+        resultLabel.text = "Your cat is \(ageInCatYears) in cat years"
     }
     
 }

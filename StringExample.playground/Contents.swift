@@ -1,6 +1,6 @@
 //: Playground - noun: a place where people can play
 
-import UIKit
+import Foundation
 
 // appendConstentOf : string bir ifade eklemek için bu metod kullanılır.
 // kullanıcıdan alınan bir string ifadenin sonuna kullanıcının seçimine göre @gmail.com ya da @yandex.com

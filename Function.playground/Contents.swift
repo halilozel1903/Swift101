@@ -13,7 +13,7 @@
  
  */
 
-import UIKit
+import Foundation
 
 func myFunction(){ // fonksiyon tanımı
     

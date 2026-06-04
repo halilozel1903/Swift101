@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 // convert string to int
 var strNumber : String = "123"

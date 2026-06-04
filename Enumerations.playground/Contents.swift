@@ -29,7 +29,7 @@
  */
 
 
-import UIKit
+import Foundation
 
 enum names { // enum tanımlanır.
     case Swift // enum değerleri tanımlandı.

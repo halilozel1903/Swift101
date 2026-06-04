@@ -1,6 +1,6 @@
 //: Playground - noun: a place where people can play
 
-import UIKit
+import Foundation
 
 /* Integer : Tam sayılar için kullanılır. Daha spesifik olarak, 32 veya 64 bit imzalı tamsayı
  tanımlamak için Int32, Int64, 32 veya 64 bit imzasız tamsayı değişkenlerini tanımlamak

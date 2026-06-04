@@ -13,7 +13,7 @@
  
  */
 
-import UIKit
+import Foundation
 
 class Subjects { // konular sınıfı tanımlandı.
     var physics: String // fizik adında string türünde bir değişken tanımlandı.

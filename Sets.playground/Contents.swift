@@ -6,7 +6,7 @@
  
  */
 
-import UIKit
+import Foundation
 
 var someSet = Set<Character>()     // Karakter veri setine göre değişebilir.
 

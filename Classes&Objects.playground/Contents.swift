@@ -1,5 +1,5 @@
 
-import UIKit
+import Foundation
 
 
 class Ghost{ // hayalet sınıfı tanımlandı.

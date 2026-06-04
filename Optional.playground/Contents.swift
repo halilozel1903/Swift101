@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 var number : Int? // nil değer alabilir.
 

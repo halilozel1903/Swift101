@@ -26,7 +26,7 @@
  */
 
 
-import UIKit
+import Foundation
 
 class hesaplama { // hesaplama adında class tanımlandı.
     
